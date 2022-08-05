@@ -1,0 +1,1592 @@
+2022-07-30 01:39:09,891 root ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides
+2022-07-30 01:42:23,666 root ERROR 2 (HY000): File 'C:UsersvijayDownloadsdata fsds -20220724T095114Z-001data fsdsAttribute DataSet.csv' not found (OS errno 2 - No such file or directory)
+2022-07-30 01:43:56,280 root ERROR 1146 (42S02): Table 'ineuron.attributeddataset' doesn't exist
+2022-07-30 01:58:36,296 root ERROR 2 (HY000): File 'C:UsersvijayDownloadsdata fsds -20220724T095114Z-001data fsdsAttribute DataSet.csv' not found (OS errno 2 - No such file or directory)
+2022-07-30 02:02:14,064 root ERROR 2 (HY000): File 'C:UsersvijayDownloadsdata fsds -20220724T095114Z-001data fsdsAttribute DataSet.csv' not found (OS errno 2 - No such file or directory)
+2022-07-30 02:03:04,840 root ERROR 2 (HY000): File 'C:\Users\vijay\Downloads\data fsds -20220724T095114Z-001\data fsds\Attribute DataSet' not found (OS errno 2 - No such file or directory)
+2022-07-30 02:04:29,911 root ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'path INTO TABLE attributeDataSet Fields Terminated by ',' Lines Terminated by '' at line 1
+2022-07-30 02:07:15,992 root ERROR 2 (HY000): File 'C:UsersvijayDownloadsdata fsds -20220724T095114Z-001data fsdsAttribute DataSet.csv' not found (OS errno 2 - No such file or directory)
+2022-07-30 02:08:37,279 root ERROR 2 (HY000): File 'Attribute DataSet.csv' not found (OS errno 2 - No such file or directory)
+2022-07-30 02:09:38,612 root ERROR 2 (HY000): File 'Attribute_DataSet.csv' not found (OS errno 2 - No such file or directory)
+2022-07-30 08:41:44,238 root INFO Data is successfully loaded from local storage to table
+2022-07-30 08:45:18,641 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-30 08:45:18,641 root ERROR name 'cmd' is not defined
+2022-07-30 08:45:43,376 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-30 08:45:43,379 root ERROR name 'cmd' is not defined
+2022-07-30 08:46:03,435 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-30 08:48:13,000 root INFO Table:attributeDataSet created
+2022-07-30 08:48:13,047 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-30 08:52:34,117 root INFO Table:attributeDataSet created
+2022-07-30 08:52:34,117 root INFO Table:salesDataSet created
+2022-07-30 08:52:34,149 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-30 08:52:34,150 root ERROR 2 (HY000): File 'C:UsersvijayDownloadsdata fsds -20220724T095114Z-001data fsdsDress Sales.xlsx' not found (OS errno 2 - No such file or directory)
+2022-07-30 08:53:15,609 root INFO Table:attributeDataSet created
+2022-07-30 08:53:15,617 root INFO Table:salesDataSet created
+2022-07-30 08:53:15,638 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-30 08:53:15,645 root ERROR 1300 (HY000): Invalid utf8mb4 character string: 'PK'
+2022-07-30 09:00:51,564 root INFO Table:attributeDataSet created
+2022-07-30 09:00:51,568 root INFO Table:salesDataSet created
+2022-07-30 09:00:51,665 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-30 09:03:16,274 root INFO Table:attributeDataSet created
+2022-07-30 09:03:16,282 root INFO Table:salesDataSet created
+2022-07-30 09:03:16,294 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-30 09:03:16,303 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-30 09:03:16,303 root ERROR 'NoneType' object is not subscriptable
+2022-07-30 23:52:24,389 root INFO Table:attributeDataSet created
+2022-07-30 23:52:24,394 root INFO Table:salesDataSet created
+2022-07-30 23:52:24,420 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-30 23:52:24,436 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 00:23:37,218 root INFO Table:attributeDataSet created
+2022-07-31 00:23:37,222 root INFO Table:salesDataSet created
+2022-07-31 00:23:37,257 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 00:23:37,284 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 00:23:37,296 root ERROR 'builtin_function_or_method' object is not iterable
+2022-07-31 00:24:15,858 root INFO Table:attributeDataSet created
+2022-07-31 00:24:15,885 root INFO Table:salesDataSet created
+2022-07-31 00:24:15,938 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 00:24:15,995 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 00:36:12,939 root INFO Table:attributeDataSet created
+2022-07-31 00:36:12,945 root INFO Table:salesDataSet created
+2022-07-31 00:36:12,968 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 00:36:12,988 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 00:36:12,993 root ERROR DataFrame.__init__() got an unexpected keyword argument 'header'
+2022-07-31 00:37:09,717 root INFO Table:attributeDataSet created
+2022-07-31 00:37:09,719 root INFO Table:salesDataSet created
+2022-07-31 00:37:09,730 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 00:37:09,740 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 01:00:31,365 root INFO Table:attributeDataSet created
+2022-07-31 01:00:31,374 root INFO Table:salesDataSet created
+2022-07-31 01:00:31,419 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 01:00:31,445 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 01:23:03,206 root INFO Table:attributeDataSet created
+2022-07-31 01:23:03,212 root INFO Table:salesDataSet created
+2022-07-31 01:23:03,241 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 01:23:03,257 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 01:23:03,269 root ERROR 23 columns passed, passed data had 24 columns
+2022-07-31 01:25:50,139 root INFO Table:attributeDataSet created
+2022-07-31 01:25:50,144 root INFO Table:salesDataSet created
+2022-07-31 01:25:50,157 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 01:25:50,172 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 01:25:50,183 root ERROR 23 columns passed, passed data had 24 columns
+2022-07-31 01:29:06,974 root INFO Table:attributeDataSet created
+2022-07-31 01:29:06,978 root INFO Table:salesDataSet created
+2022-07-31 01:29:06,991 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 01:29:07,002 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 01:29:07,008 root ERROR 23 columns passed, passed data had 24 columns
+2022-07-31 01:33:14,960 root INFO Table:attributeDataSet created
+2022-07-31 01:33:14,965 root INFO Table:salesDataSet created
+2022-07-31 01:33:14,982 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 01:33:14,996 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 01:40:08,195 root INFO Table:attributeDataSet created
+2022-07-31 01:40:08,198 root INFO Table:salesDataSet created
+2022-07-31 01:40:08,213 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 01:40:08,225 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 01:40:08,237 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 01:40:08,243 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 01:40:45,964 root INFO Table:attributeDataSet created
+2022-07-31 01:40:45,966 root INFO Table:salesDataSet created
+2022-07-31 01:40:45,981 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 01:40:45,998 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 01:40:46,006 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 01:40:46,016 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 01:41:12,401 root INFO Table:attributeDataSet created
+2022-07-31 01:41:12,403 root INFO Table:salesDataSet created
+2022-07-31 01:41:12,431 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 01:41:12,454 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 01:41:12,463 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 01:41:12,479 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 21:46:46,517 root INFO Table:attributeDataSet created
+2022-07-31 21:46:46,520 root INFO Table:salesDataSet created
+2022-07-31 21:46:46,538 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 21:46:46,550 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 21:46:46,564 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 21:46:46,570 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 21:46:46,581 root ERROR name 'attributeDataSet' is not defined
+2022-07-31 21:47:02,680 root INFO Table:attributeDataSet created
+2022-07-31 21:47:02,682 root INFO Table:salesDataSet created
+2022-07-31 21:47:02,689 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 21:47:02,699 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 21:47:02,706 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 21:47:02,712 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 21:47:25,050 root INFO Table:attributeDataSet created
+2022-07-31 21:47:25,052 root INFO Table:salesDataSet created
+2022-07-31 21:47:25,057 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 21:47:25,068 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 21:47:25,073 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 21:47:25,080 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 21:47:37,559 root INFO Table:attributeDataSet created
+2022-07-31 21:47:37,561 root INFO Table:salesDataSet created
+2022-07-31 21:47:37,570 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 21:47:37,579 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 21:47:37,583 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 21:47:37,589 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 21:47:37,594 root ERROR name 'attributeDataSet' is not defined
+2022-07-31 23:47:18,067 root INFO Table:attributeDataSet created
+2022-07-31 23:47:18,070 root INFO Table:salesDataSet created
+2022-07-31 23:47:18,115 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 23:47:18,129 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 23:47:18,143 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 23:47:18,150 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 23:47:18,161 root ERROR The "dnspython" module must be installed to use mongodb+srv:// URIs. To fix this error install pymongo with the srv extra:
+ C:\Users\vijay\anaconda3\envs\sql_challenge\python.exe -m pip install "pymongo[srv]"
+2022-07-31 23:48:56,958 root INFO Table:attributeDataSet created
+2022-07-31 23:48:56,961 root INFO Table:salesDataSet created
+2022-07-31 23:48:56,986 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 23:48:57,011 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 23:48:57,101 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 23:48:57,110 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 23:48:57,491 root ERROR 'Database' object is not callable. If you meant to call the 'test' method on a 'MongoClient' object it is failing because no such method exists.
+2022-07-31 23:49:38,698 root INFO Table:attributeDataSet created
+2022-07-31 23:49:38,701 root INFO Table:salesDataSet created
+2022-07-31 23:49:38,713 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 23:49:38,726 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 23:49:38,733 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 23:49:38,741 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 23:49:38,815 root ERROR 'Database' object is not callable. If you meant to call the 'test' method on a 'MongoClient' object it is failing because no such method exists.
+2022-07-31 23:56:16,967 root INFO Table:attributeDataSet created
+2022-07-31 23:56:16,969 root INFO Table:salesDataSet created
+2022-07-31 23:56:16,989 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 23:56:17,003 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 23:56:17,015 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 23:56:17,022 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 23:56:17,249 root ERROR 'Database' object is not callable. If you meant to call the 'test' method on a 'MongoClient' object it is failing because no such method exists.
+2022-07-31 23:57:28,085 root INFO Table:attributeDataSet created
+2022-07-31 23:57:28,087 root INFO Table:salesDataSet created
+2022-07-31 23:57:28,099 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-07-31 23:57:28,106 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-07-31 23:57:28,111 root INFO Data is assigned to DF from table attributeDataSet
+2022-07-31 23:57:28,118 root INFO Data is assigned to DF from table salesDataSet
+2022-07-31 23:57:28,306 root ERROR 'Database' object is not callable. If you meant to call the 'test' method on a 'MongoClient' object it is failing because no such method exists.
+2022-08-01 00:01:59,791 root INFO Table:attributeDataSet created
+2022-08-01 00:01:59,793 root INFO Table:salesDataSet created
+2022-08-01 00:01:59,809 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:01:59,823 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:01:59,835 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:01:59,842 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:08:40,392 root INFO Table:attributeDataSet created
+2022-08-01 00:08:40,396 root INFO Table:salesDataSet created
+2022-08-01 00:08:40,409 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:08:40,420 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:08:40,431 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:08:40,438 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:08:40,590 root INFO DressSalesData Database created successfully
+2022-08-01 00:11:05,270 root INFO Table:attributeDataSet created
+2022-08-01 00:11:05,274 root INFO Table:salesDataSet created
+2022-08-01 00:11:05,290 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:11:05,304 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:11:05,311 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:11:05,319 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:11:05,516 root INFO DressSalesData Database created successfully
+2022-08-01 00:11:34,042 root INFO Table:attributeDataSet created
+2022-08-01 00:11:34,044 root INFO Table:salesDataSet created
+2022-08-01 00:11:34,050 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:11:34,056 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:11:34,062 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:11:34,068 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:11:34,145 root INFO DressSalesData Database created successfully
+2022-08-01 00:12:00,106 root INFO Table:attributeDataSet created
+2022-08-01 00:12:00,109 root INFO Table:salesDataSet created
+2022-08-01 00:12:00,116 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:12:00,125 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:12:00,130 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:12:00,136 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:12:00,199 root INFO DressSalesData Database created successfully
+2022-08-01 00:13:36,228 root INFO Table:attributeDataSet created
+2022-08-01 00:13:36,230 root INFO Table:salesDataSet created
+2022-08-01 00:13:36,239 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:13:36,247 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:13:36,253 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:13:36,261 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:13:36,490 root INFO DressSalesData Database created successfully
+2022-08-01 00:15:20,949 root INFO Table:attributeDataSet created
+2022-08-01 00:15:20,952 root INFO Table:salesDataSet created
+2022-08-01 00:15:20,961 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:15:20,969 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:15:20,974 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:15:20,981 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:15:21,149 root INFO DressSalesData Database created successfully
+2022-08-01 00:18:02,605 root INFO Table:attributeDataSet created
+2022-08-01 00:18:02,606 root INFO Table:salesDataSet created
+2022-08-01 00:18:02,614 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:18:02,620 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:18:02,625 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:18:02,631 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:18:02,830 root INFO DressSalesData Database created successfully
+2022-08-01 00:20:10,849 root INFO Table:attributeDataSet created
+2022-08-01 00:20:10,852 root INFO Table:salesDataSet created
+2022-08-01 00:20:10,862 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:20:10,874 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:20:10,885 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:20:10,892 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:20:11,142 root INFO DressSalesData Database created successfully
+2022-08-01 00:21:54,599 root INFO Table:attributeDataSet created
+2022-08-01 00:21:54,605 root INFO Table:salesDataSet created
+2022-08-01 00:21:54,613 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:21:54,622 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:21:54,634 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:21:54,639 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:21:54,815 root ERROR name 'db' is not defined
+2022-08-01 00:22:09,012 root INFO Table:attributeDataSet created
+2022-08-01 00:22:09,015 root INFO Table:salesDataSet created
+2022-08-01 00:22:09,027 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:22:09,035 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:22:09,043 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:22:09,049 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:22:09,118 root INFO DressSalesData Database created successfully
+2022-08-01 00:23:20,202 root INFO Table:attributeDataSet created
+2022-08-01 00:23:20,205 root INFO Table:salesDataSet created
+2022-08-01 00:23:20,214 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:23:20,223 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:23:20,229 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:23:20,233 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:23:20,420 root INFO DressSalesData Database created successfully
+2022-08-01 00:23:20,420 root ERROR name 'attributeDataSet' is not defined
+2022-08-01 00:24:02,873 root INFO Table:attributeDataSet created
+2022-08-01 00:24:02,875 root INFO Table:salesDataSet created
+2022-08-01 00:24:02,883 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:24:02,891 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:24:02,894 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:24:02,900 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:24:02,968 root INFO DressSalesData Database created successfully
+2022-08-01 00:24:18,197 root INFO Table:attributeDataSet created
+2022-08-01 00:24:18,199 root INFO Table:salesDataSet created
+2022-08-01 00:24:18,205 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:24:18,211 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:24:18,216 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:24:18,223 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:24:18,291 root INFO DressSalesData Database created successfully
+2022-08-01 00:27:09,519 root INFO Table:attributeDataSet created
+2022-08-01 00:27:09,523 root INFO Table:salesDataSet created
+2022-08-01 00:27:09,535 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:27:09,542 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:27:09,551 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:27:09,557 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:27:09,796 root INFO DressSalesData Database created successfully
+2022-08-01 00:29:37,010 root INFO Table:attributeDataSet created
+2022-08-01 00:29:37,013 root INFO Table:salesDataSet created
+2022-08-01 00:29:37,025 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 00:29:37,032 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 00:29:37,043 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 00:29:37,050 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 00:29:37,279 root INFO DressSalesData Database created successfully
+2022-08-01 07:24:15,081 root INFO Table:attributeDataSet created
+2022-08-01 07:24:15,104 root INFO Table:salesDataSet created
+2022-08-01 07:24:15,139 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 07:24:15,175 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 07:24:15,203 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 07:24:15,211 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 07:24:35,237 root ERROR The DNS operation timed out after 20.007124185562134 seconds
+2022-08-01 07:34:59,828 root INFO Table:attributeDataSet created
+2022-08-01 07:34:59,832 root INFO Table:salesDataSet created
+2022-08-01 07:34:59,848 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 07:34:59,864 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 07:34:59,875 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 07:34:59,882 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 07:35:00,144 root INFO DressSalesData Database created successfully
+2022-08-01 07:35:04,300 root INFO Table:attributeDataSet created
+2022-08-01 07:35:04,302 root INFO Table:salesDataSet created
+2022-08-01 07:35:04,310 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 07:35:04,320 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 07:35:04,323 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 07:35:04,328 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 07:35:04,487 root INFO DressSalesData Database created successfully
+2022-08-01 07:48:24,940 root INFO Table:attributeDataSet created
+2022-08-01 07:48:24,940 root INFO Table:salesDataSet created
+2022-08-01 07:48:24,957 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 07:48:24,965 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 07:48:24,979 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 07:48:24,985 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 07:48:25,637 root INFO DressSalesData Database created successfully
+2022-08-01 07:50:29,987 root INFO Table:attributeDataSet created
+2022-08-01 07:50:29,989 root INFO Table:salesDataSet created
+2022-08-01 07:50:30,007 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 07:50:30,027 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 07:50:30,039 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 07:50:30,055 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 07:50:30,842 root INFO DressSalesData Database created successfully
+2022-08-01 07:55:26,656 root INFO Table:attributeDataSet created
+2022-08-01 07:55:26,660 root INFO Table:salesDataSet created
+2022-08-01 07:55:26,672 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 07:55:26,683 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 07:55:26,700 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 07:55:26,708 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 07:55:27,102 root ERROR cannot import name 'Connection' from 'pymongo' (C:\Users\vijay\anaconda3\envs\sql_challenge\lib\site-packages\pymongo\__init__.py)
+2022-08-01 08:10:14,381 root INFO Table:attributeDataSet created
+2022-08-01 08:10:14,387 root INFO Table:salesDataSet created
+2022-08-01 08:10:14,410 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 08:10:14,427 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 08:10:14,446 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 08:10:14,453 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 08:10:14,918 root ERROR cannot import name 'Connection' from 'pymongo' (C:\Users\vijay\anaconda3\envs\sql_challenge\lib\site-packages\pymongo\__init__.py)
+2022-08-01 08:10:53,565 root INFO Table:attributeDataSet created
+2022-08-01 08:10:53,570 root INFO Table:salesDataSet created
+2022-08-01 08:10:53,589 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 08:10:53,609 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 08:10:53,625 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 08:10:53,640 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 08:10:54,214 root INFO DressSalesData Database created successfully
+2022-08-01 08:13:17,699 root INFO Table:attributeDataSet created
+2022-08-01 08:13:17,709 root INFO Table:salesDataSet created
+2022-08-01 08:13:17,720 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 08:13:17,733 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 08:13:17,749 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 08:13:17,750 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 08:13:18,364 root INFO DressSalesData Database created successfully
+2022-08-01 08:13:37,450 root INFO Table:attributeDataSet created
+2022-08-01 08:13:37,459 root INFO Table:salesDataSet created
+2022-08-01 08:13:37,461 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 08:13:37,481 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 08:13:37,484 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 08:13:37,495 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 08:13:38,432 root INFO DressSalesData Database created successfully
+2022-08-01 10:03:59,179 root INFO Table:attributeDataSet created
+2022-08-01 10:03:59,179 root INFO Table:salesDataSet created
+2022-08-01 10:03:59,219 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 10:03:59,244 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 10:03:59,267 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 10:03:59,280 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 10:04:19,304 root ERROR The DNS operation timed out after 20.002601385116577 seconds
+2022-08-01 10:08:47,774 root INFO Table:attributeDataSet created
+2022-08-01 10:08:47,774 root INFO Table:salesDataSet created
+2022-08-01 10:08:47,794 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 10:08:47,806 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 10:08:47,814 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 10:08:47,815 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 10:08:48,576 root INFO DressSalesData Database created successfully
+2022-08-01 10:15:22,432 root INFO Table:attributeDataSet created
+2022-08-01 10:15:22,444 root INFO Table:salesDataSet created
+2022-08-01 10:15:22,459 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 10:15:22,470 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 10:15:22,480 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 10:15:22,489 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 10:15:23,199 root INFO DressSalesData Database created successfully
+2022-08-01 10:16:15,371 root INFO Table:attributeDataSet created
+2022-08-01 10:16:15,376 root INFO Table:salesDataSet created
+2022-08-01 10:16:15,389 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 10:16:15,409 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 10:16:15,419 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 10:16:15,434 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 10:16:15,870 root INFO DressSalesData Database created successfully
+2022-08-01 10:17:56,320 root INFO Table:attributeDataSet created
+2022-08-01 10:17:56,323 root INFO Table:salesDataSet created
+2022-08-01 10:17:56,342 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 10:17:56,364 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 10:17:56,383 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 10:17:56,394 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 10:17:56,958 root INFO DressSalesData Database created successfully
+2022-08-01 10:17:56,959 root ERROR name 'db' is not defined
+2022-08-01 10:18:14,889 root INFO Table:attributeDataSet created
+2022-08-01 10:18:14,890 root INFO Table:salesDataSet created
+2022-08-01 10:18:14,901 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 10:18:14,906 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 10:18:14,917 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 10:18:14,917 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 10:18:15,339 root INFO DressSalesData Database created successfully
+2022-08-01 10:18:15,339 root ERROR name 'db' is not defined
+2022-08-01 10:18:36,930 root INFO Table:attributeDataSet created
+2022-08-01 10:18:36,932 root INFO Table:salesDataSet created
+2022-08-01 10:18:36,939 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-01 10:18:36,951 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-01 10:18:36,960 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-01 10:18:36,960 root INFO Data is assigned to DF from table salesDataSet
+2022-08-01 10:18:37,468 root INFO DressSalesData Database created successfully
+2022-08-02 08:44:19,971 root INFO Table:attributeDataSet created
+2022-08-02 08:44:19,979 root INFO Table:salesDataSet created
+2022-08-02 08:44:20,027 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 08:44:20,052 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 08:44:20,070 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 08:44:20,085 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 08:44:20,608 root INFO DressSalesData Database created successfully
+2022-08-02 08:44:20,608 root ERROR name 'attributeDataSet' is not defined
+2022-08-02 08:46:25,715 root INFO Table:attributeDataSet created
+2022-08-02 08:46:25,717 root INFO Table:salesDataSet created
+2022-08-02 08:46:25,731 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 08:46:25,755 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 08:46:25,769 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 08:46:25,778 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 08:46:25,983 root INFO DressSalesData Database created successfully
+2022-08-02 08:46:25,983 root INFO Attrcoll collection created successfully
+2022-08-02 08:46:25,983 root ERROR name 'attributeDataSet' is not defined
+2022-08-02 08:55:25,735 root INFO Table:attributeDataSet created
+2022-08-02 08:55:25,739 root INFO Table:salesDataSet created
+2022-08-02 08:55:25,764 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 08:55:25,777 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 08:55:25,792 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 08:55:25,800 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 08:55:26,046 root INFO DressSalesData Database created successfully
+2022-08-02 08:55:26,046 root INFO Attrcoll collection created successfully
+2022-08-02 08:55:26,047 root ERROR name 'json' is not defined
+2022-08-02 09:00:31,275 root INFO Table:attributeDataSet created
+2022-08-02 09:00:31,277 root INFO Table:salesDataSet created
+2022-08-02 09:00:31,296 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 09:00:31,310 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 09:00:31,322 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 09:00:31,326 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 09:00:31,586 root INFO DressSalesData Database created successfully
+2022-08-02 09:00:31,586 root INFO Attrcoll collection created successfully
+2022-08-02 09:00:32,215 root ERROR name 'json' is not defined
+2022-08-02 10:43:03,681 root INFO Table:attributeDataSet created
+2022-08-02 10:43:03,685 root INFO Table:salesDataSet created
+2022-08-02 10:43:03,701 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:43:03,714 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:43:03,726 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:43:03,733 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:43:03,982 root INFO DressSalesData Database created successfully
+2022-08-02 10:43:03,983 root INFO Attrcoll collection created successfully
+2022-08-02 10:43:04,486 root ERROR name 'json' is not defined
+2022-08-02 10:49:05,167 root INFO Table:attributeDataSet created
+2022-08-02 10:49:05,203 root INFO Table:salesDataSet created
+2022-08-02 10:49:05,228 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:49:05,247 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:49:05,257 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:49:05,264 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:49:05,525 root INFO DressSalesData Database created successfully
+2022-08-02 10:49:05,526 root INFO Attrcoll collection created successfully
+2022-08-02 10:49:06,135 root ERROR name 'json' is not defined
+2022-08-02 10:51:53,391 root INFO Table:attributeDataSet created
+2022-08-02 10:51:53,394 root INFO Table:salesDataSet created
+2022-08-02 10:51:53,412 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:51:53,431 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:51:53,450 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:51:53,459 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:51:53,619 root INFO DressSalesData Database created successfully
+2022-08-02 10:51:53,619 root INFO Attrcoll collection created successfully
+2022-08-02 10:51:54,213 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-02 10:56:18,642 root INFO Table:attributeDataSet created
+2022-08-02 10:56:18,645 root INFO Table:salesDataSet created
+2022-08-02 10:56:18,656 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:56:18,665 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:56:18,673 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:56:18,677 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:56:18,879 root INFO DressSalesData Database created successfully
+2022-08-02 10:56:18,879 root INFO Attrcoll collection created successfully
+2022-08-02 10:56:19,482 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-02 10:56:33,208 root INFO Table:attributeDataSet created
+2022-08-02 10:56:33,211 root INFO Table:salesDataSet created
+2022-08-02 10:56:33,219 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:56:33,229 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:56:33,234 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:56:33,240 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:56:33,303 root INFO DressSalesData Database created successfully
+2022-08-02 10:56:33,303 root INFO Attrcoll collection created successfully
+2022-08-02 10:56:33,796 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-02 10:57:12,104 root INFO Table:attributeDataSet created
+2022-08-02 10:57:12,106 root INFO Table:salesDataSet created
+2022-08-02 10:57:12,114 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:57:12,121 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:57:12,125 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:57:12,130 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:57:12,274 root INFO DressSalesData Database created successfully
+2022-08-02 10:57:12,274 root INFO Attrcoll collection created successfully
+2022-08-02 10:57:12,903 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-02 10:57:27,898 root INFO Table:attributeDataSet created
+2022-08-02 10:57:27,899 root INFO Table:salesDataSet created
+2022-08-02 10:57:27,914 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:57:27,923 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:57:27,927 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:57:27,932 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:57:28,075 root INFO DressSalesData Database created successfully
+2022-08-02 10:57:28,075 root INFO Attrcoll collection created successfully
+2022-08-02 10:57:28,664 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-02 10:58:19,302 root INFO Table:attributeDataSet created
+2022-08-02 10:58:19,304 root INFO Table:salesDataSet created
+2022-08-02 10:58:19,317 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:58:19,325 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:58:19,329 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:58:19,334 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:58:19,438 root INFO DressSalesData Database created successfully
+2022-08-02 10:58:19,438 root INFO Attrcoll collection created successfully
+2022-08-02 10:58:19,944 root ERROR 'DataFrame' object has no attribute 'json'
+2022-08-02 10:58:42,376 root INFO Table:attributeDataSet created
+2022-08-02 10:58:42,378 root INFO Table:salesDataSet created
+2022-08-02 10:58:42,384 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:58:42,392 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:58:42,396 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:58:42,401 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:58:42,544 root INFO DressSalesData Database created successfully
+2022-08-02 10:58:42,544 root INFO Attrcoll collection created successfully
+2022-08-02 10:58:43,135 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-02 10:59:02,610 root INFO Table:attributeDataSet created
+2022-08-02 10:59:02,612 root INFO Table:salesDataSet created
+2022-08-02 10:59:02,619 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:59:02,628 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:59:02,632 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:59:02,639 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:59:02,700 root INFO DressSalesData Database created successfully
+2022-08-02 10:59:02,700 root INFO Attrcoll collection created successfully
+2022-08-02 10:59:03,203 root ERROR The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2022-08-02 10:59:31,550 root INFO Table:attributeDataSet created
+2022-08-02 10:59:31,552 root INFO Table:salesDataSet created
+2022-08-02 10:59:31,560 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 10:59:31,568 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 10:59:31,574 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 10:59:31,581 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 10:59:31,723 root INFO DressSalesData Database created successfully
+2022-08-02 10:59:31,724 root INFO Attrcoll collection created successfully
+2022-08-02 10:59:32,216 root ERROR 'DataFrame' object has no attribute 'json'
+2022-08-02 11:00:18,014 root INFO Table:attributeDataSet created
+2022-08-02 11:00:18,016 root INFO Table:salesDataSet created
+2022-08-02 11:00:18,023 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:00:18,030 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:00:18,034 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:00:18,039 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:00:18,266 root INFO DressSalesData Database created successfully
+2022-08-02 11:00:18,266 root INFO Attrcoll collection created successfully
+2022-08-02 11:00:18,845 root ERROR name 'df_salesDS1' is not defined
+2022-08-02 11:01:32,912 root INFO Table:attributeDataSet created
+2022-08-02 11:01:32,914 root INFO Table:salesDataSet created
+2022-08-02 11:01:32,920 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:01:32,931 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:01:32,935 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:01:32,940 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:01:33,188 root INFO DressSalesData Database created successfully
+2022-08-02 11:01:33,188 root INFO Attrcoll collection created successfully
+2022-08-02 11:01:33,783 root ERROR name 'json' is not defined
+2022-08-02 11:02:04,583 root INFO Table:attributeDataSet created
+2022-08-02 11:02:04,585 root INFO Table:salesDataSet created
+2022-08-02 11:02:04,594 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:02:04,600 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:02:04,606 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:02:04,612 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:02:04,773 root INFO DressSalesData Database created successfully
+2022-08-02 11:02:04,775 root INFO Attrcoll collection created successfully
+2022-08-02 11:02:05,317 root ERROR name 'json' is not defined
+2022-08-02 11:03:09,707 root INFO Table:attributeDataSet created
+2022-08-02 11:03:09,709 root INFO Table:salesDataSet created
+2022-08-02 11:03:09,716 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:03:09,723 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:03:09,728 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:03:09,734 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:03:09,915 root INFO DressSalesData Database created successfully
+2022-08-02 11:03:09,915 root INFO Attrcoll collection created successfully
+2022-08-02 11:03:10,545 root ERROR name 'json' is not defined
+2022-08-02 11:03:38,101 root INFO Table:attributeDataSet created
+2022-08-02 11:03:38,103 root INFO Table:salesDataSet created
+2022-08-02 11:03:38,110 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:03:38,117 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:03:38,122 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:03:38,127 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:03:38,217 root INFO DressSalesData Database created successfully
+2022-08-02 11:03:38,217 root INFO Attrcoll collection created successfully
+2022-08-02 11:03:38,729 root ERROR documents must be a non-empty list
+2022-08-02 11:04:30,081 root INFO Table:attributeDataSet created
+2022-08-02 11:04:30,082 root INFO Table:salesDataSet created
+2022-08-02 11:04:30,090 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:04:30,096 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:04:30,100 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:04:30,106 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:04:30,325 root INFO DressSalesData Database created successfully
+2022-08-02 11:04:30,325 root INFO Attrcoll collection created successfully
+2022-08-02 11:04:30,882 root ERROR [Errno 2] No such file or directory: '[attributeDataSet.json]'
+2022-08-02 11:04:48,564 root INFO Table:attributeDataSet created
+2022-08-02 11:04:48,566 root INFO Table:salesDataSet created
+2022-08-02 11:04:48,578 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:04:48,587 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:04:48,593 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:04:48,599 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:04:48,671 root INFO DressSalesData Database created successfully
+2022-08-02 11:04:48,671 root INFO Attrcoll collection created successfully
+2022-08-02 11:04:49,176 root ERROR name 'attributeDataSet' is not defined
+2022-08-02 11:05:12,708 root INFO Table:attributeDataSet created
+2022-08-02 11:05:12,709 root INFO Table:salesDataSet created
+2022-08-02 11:05:12,732 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:05:12,738 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:05:12,743 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:05:12,751 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:05:12,815 root INFO DressSalesData Database created successfully
+2022-08-02 11:05:12,815 root INFO Attrcoll collection created successfully
+2022-08-02 11:05:13,334 root ERROR name 'attributeDataSet' is not defined
+2022-08-02 11:05:59,155 root INFO Table:attributeDataSet created
+2022-08-02 11:05:59,158 root INFO Table:salesDataSet created
+2022-08-02 11:05:59,169 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:05:59,180 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:05:59,185 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:05:59,193 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:05:59,347 root INFO DressSalesData Database created successfully
+2022-08-02 11:05:59,347 root INFO Attrcoll collection created successfully
+2022-08-02 11:05:59,972 root ERROR documents must be a non-empty list
+2022-08-02 11:07:03,866 root INFO Table:attributeDataSet created
+2022-08-02 11:07:03,880 root INFO Table:salesDataSet created
+2022-08-02 11:07:03,889 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:07:03,896 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:07:03,901 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:07:03,906 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:07:04,193 root INFO DressSalesData Database created successfully
+2022-08-02 11:07:04,193 root INFO Attrcoll collection created successfully
+2022-08-02 11:07:05,045 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 11:07:05,046 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-02 11:08:26,571 root INFO Table:attributeDataSet created
+2022-08-02 11:08:26,572 root INFO Table:salesDataSet created
+2022-08-02 11:08:26,579 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:08:26,590 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:08:26,595 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:08:26,602 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:08:26,738 root INFO DressSalesData Database created successfully
+2022-08-02 11:08:26,738 root INFO Attrcoll collection created successfully
+2022-08-02 11:08:27,573 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 11:08:27,574 root ERROR document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+2022-08-02 11:09:33,900 root INFO Table:attributeDataSet created
+2022-08-02 11:09:33,901 root INFO Table:salesDataSet created
+2022-08-02 11:09:33,908 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:09:33,916 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:09:33,921 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:09:33,929 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:09:34,116 root INFO DressSalesData Database created successfully
+2022-08-02 11:09:34,117 root INFO Attrcoll collection created successfully
+2022-08-02 11:09:34,953 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 11:09:35,089 root INFO Successfully inserted the sales data into collection
+2022-08-02 11:32:06,409 root INFO Table:attributeDataSet created
+2022-08-02 11:32:06,414 root INFO Table:salesDataSet created
+2022-08-02 11:32:06,464 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:32:06,491 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:32:06,510 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:32:06,521 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:32:06,731 root INFO DressSalesData Database created successfully
+2022-08-02 11:32:06,731 root INFO Attrcoll collection created successfully
+2022-08-02 11:32:07,542 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 11:32:07,636 root INFO Successfully inserted the sales data into collection
+2022-08-02 11:32:07,640 root ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2022-08-02 11:34:21,196 root INFO Table:attributeDataSet created
+2022-08-02 11:34:21,200 root INFO Table:salesDataSet created
+2022-08-02 11:34:21,210 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:34:21,221 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:34:21,226 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:34:21,234 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:34:21,424 root INFO DressSalesData Database created successfully
+2022-08-02 11:34:21,424 root INFO Attrcoll collection created successfully
+2022-08-02 11:34:22,272 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 11:34:22,405 root INFO Successfully inserted the sales data into collection
+2022-08-02 11:34:22,406 root ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2022-08-02 11:37:12,672 root INFO Table:attributeDataSet created
+2022-08-02 11:37:12,675 root INFO Table:salesDataSet created
+2022-08-02 11:37:12,695 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:37:12,711 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:37:12,721 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:37:12,730 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:37:12,873 root INFO DressSalesData Database created successfully
+2022-08-02 11:37:12,874 root INFO Attrcoll collection created successfully
+2022-08-02 11:37:13,725 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 11:37:13,849 root INFO Successfully inserted the sales data into collection
+2022-08-02 11:38:59,161 root INFO Table:attributeDataSet created
+2022-08-02 11:38:59,164 root INFO Table:salesDataSet created
+2022-08-02 11:38:59,177 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 11:38:59,187 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 11:38:59,200 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 11:38:59,206 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 11:38:59,432 root INFO DressSalesData Database created successfully
+2022-08-02 11:38:59,432 root INFO Attrcoll collection created successfully
+2022-08-02 11:39:00,231 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 11:39:00,364 root INFO Successfully inserted the sales data into collection
+2022-08-02 11:39:00,373 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-02 12:04:47,304 root INFO Table:attributeDataSet created
+2022-08-02 12:04:47,308 root INFO Table:salesDataSet created
+2022-08-02 12:04:47,330 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 12:04:47,345 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 12:04:47,354 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 12:04:47,361 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 12:04:47,550 root INFO DressSalesData Database created successfully
+2022-08-02 12:04:47,550 root INFO Attrcoll collection created successfully
+2022-08-02 12:04:48,373 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 12:04:48,509 root INFO Successfully inserted the sales data into collection
+2022-08-02 12:04:48,521 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-02 12:04:48,538 root ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dress_ID) from attributeDataSet' at line 1
+2022-08-02 12:05:50,518 root INFO Table:attributeDataSet created
+2022-08-02 12:05:50,522 root INFO Table:salesDataSet created
+2022-08-02 12:05:50,547 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 12:05:50,565 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 12:05:50,578 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 12:05:50,588 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 12:05:50,728 root INFO DressSalesData Database created successfully
+2022-08-02 12:05:50,728 root INFO Attrcoll collection created successfully
+2022-08-02 12:05:51,516 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 12:05:51,688 root INFO Successfully inserted the sales data into collection
+2022-08-02 12:05:51,693 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-02 12:06:36,488 root INFO Table:attributeDataSet created
+2022-08-02 12:06:36,491 root INFO Table:salesDataSet created
+2022-08-02 12:06:36,502 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 12:06:36,515 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 12:06:36,520 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 12:06:36,528 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 12:06:36,606 root INFO DressSalesData Database created successfully
+2022-08-02 12:06:36,606 root INFO Attrcoll collection created successfully
+2022-08-02 12:06:37,404 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 12:06:37,573 root INFO Successfully inserted the sales data into collection
+2022-08-02 12:06:37,580 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-02 12:07:54,114 root INFO Table:attributeDataSet created
+2022-08-02 12:07:54,117 root INFO Table:salesDataSet created
+2022-08-02 12:07:54,125 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-02 12:07:54,134 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-02 12:07:54,139 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-02 12:07:54,149 root INFO Data is assigned to DF from table salesDataSet
+2022-08-02 12:07:54,286 root INFO DressSalesData Database created successfully
+2022-08-02 12:07:54,286 root INFO Attrcoll collection created successfully
+2022-08-02 12:07:55,110 root INFO Successfully inserted the Attribute Data into collection
+2022-08-02 12:07:55,282 root INFO Successfully inserted the sales data into collection
+2022-08-02 12:07:55,292 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 07:49:29,687 root INFO Table:attributeDataSet created
+2022-08-03 07:49:29,690 root INFO Table:salesDataSet created
+2022-08-03 07:49:29,721 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 07:49:29,731 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 07:49:29,744 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 07:49:29,749 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 07:49:30,003 root INFO DressSalesData Database created successfully
+2022-08-03 07:49:30,004 root INFO Attrcoll collection created successfully
+2022-08-03 07:49:30,781 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 07:49:30,933 root INFO Successfully inserted the sales data into collection
+2022-08-03 07:49:30,946 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 07:49:30,972 root ERROR name 'curor' is not defined
+2022-08-03 07:49:49,047 root INFO Table:attributeDataSet created
+2022-08-03 07:49:49,049 root INFO Table:salesDataSet created
+2022-08-03 07:49:49,055 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 07:49:49,067 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 07:49:49,072 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 07:49:49,079 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 07:49:49,140 root INFO DressSalesData Database created successfully
+2022-08-03 07:49:49,140 root INFO Attrcoll collection created successfully
+2022-08-03 07:49:49,791 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 07:49:49,933 root INFO Successfully inserted the sales data into collection
+2022-08-03 07:49:49,947 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 07:50:25,066 root INFO Table:attributeDataSet created
+2022-08-03 07:50:25,070 root INFO Table:salesDataSet created
+2022-08-03 07:50:25,080 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 07:50:25,090 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 07:50:25,094 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 07:50:25,099 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 07:50:25,158 root INFO DressSalesData Database created successfully
+2022-08-03 07:50:25,158 root INFO Attrcoll collection created successfully
+2022-08-03 07:50:25,812 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 07:50:25,959 root INFO Successfully inserted the sales data into collection
+2022-08-03 07:50:25,965 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 07:51:07,635 root INFO Table:attributeDataSet created
+2022-08-03 07:51:07,637 root INFO Table:salesDataSet created
+2022-08-03 07:51:07,647 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 07:51:07,657 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 07:51:07,661 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 07:51:07,667 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 07:51:07,845 root INFO DressSalesData Database created successfully
+2022-08-03 07:51:07,845 root INFO Attrcoll collection created successfully
+2022-08-03 07:51:08,629 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 07:51:08,772 root INFO Successfully inserted the sales data into collection
+2022-08-03 07:51:08,775 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 07:54:27,567 root INFO Table:attributeDataSet created
+2022-08-03 07:54:27,569 root INFO Table:salesDataSet created
+2022-08-03 07:54:27,578 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 07:54:27,585 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 07:54:27,591 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 07:54:27,597 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 07:54:27,796 root INFO DressSalesData Database created successfully
+2022-08-03 07:54:27,796 root INFO Attrcoll collection created successfully
+2022-08-03 07:54:28,511 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 07:54:28,668 root INFO Successfully inserted the sales data into collection
+2022-08-03 07:54:28,678 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 08:04:42,537 root INFO Table:attributeDataSet created
+2022-08-03 08:04:42,540 root INFO Table:salesDataSet created
+2022-08-03 08:04:42,551 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 08:04:42,561 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 08:04:42,570 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 08:04:42,574 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 08:04:42,804 root INFO DressSalesData Database created successfully
+2022-08-03 08:04:42,804 root INFO Attrcoll collection created successfully
+2022-08-03 08:04:43,610 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 08:04:43,765 root INFO Successfully inserted the sales data into collection
+2022-08-03 08:04:43,776 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 10:11:08,647 root INFO Table:attributeDataSet created
+2022-08-03 10:11:08,647 root INFO Table:salesDataSet created
+2022-08-03 10:11:08,671 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 10:11:08,695 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 10:11:08,707 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 10:11:08,716 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 10:11:28,740 root ERROR The DNS operation timed out after 20.007166385650635 seconds
+2022-08-03 10:13:12,192 root INFO Table:attributeDataSet created
+2022-08-03 10:13:12,195 root INFO Table:salesDataSet created
+2022-08-03 10:13:12,214 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 10:13:12,232 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 10:13:12,250 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 10:13:12,267 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 10:13:12,559 root INFO DressSalesData Database created successfully
+2022-08-03 10:13:12,559 root INFO Attrcoll collection created successfully
+2022-08-03 10:13:13,954 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 10:13:14,360 root INFO Successfully inserted the sales data into collection
+2022-08-03 10:13:14,371 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 10:15:40,260 root INFO Table:attributeDataSet created
+2022-08-03 10:15:40,269 root INFO Table:salesDataSet created
+2022-08-03 10:15:40,315 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 10:15:40,390 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 10:15:40,442 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 10:15:40,460 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 10:15:42,514 root INFO DressSalesData Database created successfully
+2022-08-03 10:15:42,515 root INFO Attrcoll collection created successfully
+2022-08-03 10:15:46,223 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 10:15:46,712 root INFO Successfully inserted the sales data into collection
+2022-08-03 10:15:46,846 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 10:17:16,092 root INFO Table:attributeDataSet created
+2022-08-03 10:17:16,102 root INFO Table:salesDataSet created
+2022-08-03 10:17:16,114 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 10:17:16,130 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 10:17:16,131 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 10:17:16,141 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 10:17:16,800 root INFO DressSalesData Database created successfully
+2022-08-03 10:17:16,801 root INFO Attrcoll collection created successfully
+2022-08-03 10:17:18,920 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 10:17:19,604 root INFO Successfully inserted the sales data into collection
+2022-08-03 10:17:19,619 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-03 11:18:01,117 root INFO Table:attributeDataSet created
+2022-08-03 11:18:01,120 root INFO Table:salesDataSet created
+2022-08-03 11:18:01,141 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-03 11:18:01,153 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-03 11:18:01,163 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-03 11:18:01,169 root INFO Data is assigned to DF from table salesDataSet
+2022-08-03 11:18:01,658 root INFO DressSalesData Database created successfully
+2022-08-03 11:18:01,659 root INFO Attrcoll collection created successfully
+2022-08-03 11:18:03,294 root INFO Successfully inserted the Attribute Data into collection
+2022-08-03 11:18:03,492 root INFO Successfully inserted the sales data into collection
+2022-08-03 11:18:03,570 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:17:55,911 root INFO Table:attributeDataSet created
+2022-08-04 00:17:55,915 root INFO Table:salesDataSet created
+2022-08-04 00:17:55,949 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:17:55,966 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:17:55,976 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:17:55,983 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:17:56,214 root INFO DressSalesData Database created successfully
+2022-08-04 00:17:56,214 root INFO Attrcoll collection created successfully
+2022-08-04 00:17:56,916 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:17:57,032 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:17:57,041 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:21:14,461 root INFO Table:attributeDataSet created
+2022-08-04 00:21:14,465 root INFO Table:salesDataSet created
+2022-08-04 00:21:14,481 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:21:14,494 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:21:14,504 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:21:14,511 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:21:14,668 root INFO DressSalesData Database created successfully
+2022-08-04 00:21:14,668 root INFO Attrcoll collection created successfully
+2022-08-04 00:21:15,381 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:21:15,494 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:21:15,500 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:21:25,960 root INFO Table:attributeDataSet created
+2022-08-04 00:21:25,962 root INFO Table:salesDataSet created
+2022-08-04 00:21:25,971 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:21:25,981 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:21:25,986 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:21:25,992 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:21:26,057 root INFO DressSalesData Database created successfully
+2022-08-04 00:21:26,057 root INFO Attrcoll collection created successfully
+2022-08-04 00:21:26,631 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:21:26,737 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:21:26,743 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:21:26,807 root ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ','31/8/2013') from  salesDataSet' at line 1
+2022-08-04 00:22:31,855 root INFO Table:attributeDataSet created
+2022-08-04 00:22:31,857 root INFO Table:salesDataSet created
+2022-08-04 00:22:31,867 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:22:31,878 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:22:31,884 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:22:31,890 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:22:32,058 root INFO DressSalesData Database created successfully
+2022-08-04 00:22:32,058 root INFO Attrcoll collection created successfully
+2022-08-04 00:22:32,871 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:22:33,035 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:22:33,040 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:23:13,211 root INFO Table:attributeDataSet created
+2022-08-04 00:23:13,213 root INFO Table:salesDataSet created
+2022-08-04 00:23:13,221 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:23:13,233 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:23:13,237 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:23:13,244 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:23:13,308 root INFO DressSalesData Database created successfully
+2022-08-04 00:23:13,308 root INFO Attrcoll collection created successfully
+2022-08-04 00:23:13,935 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:23:14,045 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:23:14,052 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:24:35,760 root INFO Table:attributeDataSet created
+2022-08-04 00:24:35,762 root INFO Table:salesDataSet created
+2022-08-04 00:24:35,770 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:24:35,778 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:24:35,783 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:24:35,788 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:24:35,988 root INFO DressSalesData Database created successfully
+2022-08-04 00:24:35,988 root INFO Attrcoll collection created successfully
+2022-08-04 00:24:36,711 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:24:36,848 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:24:36,856 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:30:58,067 root INFO Table:attributeDataSet created
+2022-08-04 00:30:58,069 root INFO Table:salesDataSet created
+2022-08-04 00:30:58,083 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:30:58,093 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:30:58,101 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:30:58,107 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:30:58,276 root INFO DressSalesData Database created successfully
+2022-08-04 00:30:58,277 root INFO Attrcoll collection created successfully
+2022-08-04 00:30:58,984 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:30:59,092 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:30:59,097 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:30:59,135 root ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+r'31/8/2013' from  salesDataSet' at line 1
+2022-08-04 00:31:28,031 root INFO Table:attributeDataSet created
+2022-08-04 00:31:28,033 root INFO Table:salesDataSet created
+2022-08-04 00:31:28,043 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:31:28,051 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:31:28,056 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:31:28,063 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:31:28,133 root INFO DressSalesData Database created successfully
+2022-08-04 00:31:28,133 root INFO Attrcoll collection created successfully
+2022-08-04 00:31:28,833 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:31:28,956 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:31:28,964 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:31:44,624 root INFO Table:attributeDataSet created
+2022-08-04 00:31:44,625 root INFO Table:salesDataSet created
+2022-08-04 00:31:44,633 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:31:44,643 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:31:44,648 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:31:44,655 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:31:44,737 root INFO DressSalesData Database created successfully
+2022-08-04 00:31:44,737 root INFO Attrcoll collection created successfully
+2022-08-04 00:31:45,353 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:31:45,468 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:31:45,478 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:32:19,297 root INFO Table:attributeDataSet created
+2022-08-04 00:32:19,299 root INFO Table:salesDataSet created
+2022-08-04 00:32:19,314 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:32:19,351 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:32:19,360 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:32:19,367 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:32:19,545 root INFO DressSalesData Database created successfully
+2022-08-04 00:32:19,545 root INFO Attrcoll collection created successfully
+2022-08-04 00:32:20,226 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:32:20,342 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:32:20,351 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 00:34:28,062 root INFO Table:attributeDataSet created
+2022-08-04 00:34:28,065 root INFO Table:salesDataSet created
+2022-08-04 00:34:28,075 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 00:34:28,085 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 00:34:28,093 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 00:34:28,101 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 00:34:28,273 root INFO DressSalesData Database created successfully
+2022-08-04 00:34:28,273 root INFO Attrcoll collection created successfully
+2022-08-04 00:34:29,023 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 00:34:29,148 root INFO Successfully inserted the sales data into collection
+2022-08-04 00:34:29,154 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:33:49,859 root INFO Table:attributeDataSet created
+2022-08-04 11:33:49,863 root INFO Table:salesDataSet created
+2022-08-04 11:33:49,891 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:33:49,904 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:33:49,926 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:33:49,930 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:33:50,469 root INFO DressSalesData Database created successfully
+2022-08-04 11:33:50,470 root INFO Attrcoll collection created successfully
+2022-08-04 11:33:52,690 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:33:52,821 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:33:52,831 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:38:54,836 root INFO Table:attributeDataSet created
+2022-08-04 11:38:54,840 root INFO Table:salesDataSet created
+2022-08-04 11:38:54,859 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:38:54,879 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:38:54,892 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:38:54,899 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:38:55,121 root INFO DressSalesData Database created successfully
+2022-08-04 11:38:55,121 root INFO Attrcoll collection created successfully
+2022-08-04 11:38:55,896 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:38:56,050 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:38:56,058 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:52:04,890 root INFO Table:attributeDataSet created
+2022-08-04 11:52:04,894 root INFO Table:salesDataSet created
+2022-08-04 11:52:04,918 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:52:04,935 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:52:04,950 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:52:04,957 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:52:05,168 root INFO DressSalesData Database created successfully
+2022-08-04 11:52:05,168 root INFO Attrcoll collection created successfully
+2022-08-04 11:52:05,943 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:52:06,196 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:52:06,208 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:52:49,956 root INFO Table:attributeDataSet created
+2022-08-04 11:52:49,960 root INFO Table:salesDataSet created
+2022-08-04 11:52:49,976 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:52:49,995 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:52:50,006 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:52:50,014 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:52:50,134 root INFO DressSalesData Database created successfully
+2022-08-04 11:52:50,135 root INFO Attrcoll collection created successfully
+2022-08-04 11:52:50,802 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:52:50,962 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:52:50,972 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:53:23,267 root INFO Table:attributeDataSet created
+2022-08-04 11:53:23,270 root INFO Table:salesDataSet created
+2022-08-04 11:53:23,281 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:53:23,294 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:53:23,300 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:53:23,308 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:53:23,501 root INFO DressSalesData Database created successfully
+2022-08-04 11:53:23,501 root INFO Attrcoll collection created successfully
+2022-08-04 11:53:24,299 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:53:24,452 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:53:24,460 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:53:45,741 root INFO Table:attributeDataSet created
+2022-08-04 11:53:45,745 root INFO Table:salesDataSet created
+2022-08-04 11:53:45,754 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:53:45,766 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:53:45,771 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:53:45,776 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:53:45,851 root INFO DressSalesData Database created successfully
+2022-08-04 11:53:45,852 root INFO Attrcoll collection created successfully
+2022-08-04 11:53:46,526 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:53:46,686 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:53:46,693 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:54:27,974 root INFO Table:attributeDataSet created
+2022-08-04 11:54:27,977 root INFO Table:salesDataSet created
+2022-08-04 11:54:27,988 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:54:27,996 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:54:28,006 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:54:28,014 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:54:28,245 root INFO DressSalesData Database created successfully
+2022-08-04 11:54:28,245 root INFO Attrcoll collection created successfully
+2022-08-04 11:54:29,011 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:54:29,164 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:54:29,172 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:54:29,196 root ERROR name 'Dress_ID' is not defined
+2022-08-04 11:55:06,298 root INFO Table:attributeDataSet created
+2022-08-04 11:55:06,301 root INFO Table:salesDataSet created
+2022-08-04 11:55:06,309 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:55:06,319 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:55:06,325 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:55:06,332 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:55:06,428 root INFO DressSalesData Database created successfully
+2022-08-04 11:55:06,428 root INFO Attrcoll collection created successfully
+2022-08-04 11:55:07,122 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:55:07,281 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:55:07,286 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:55:07,372 root ERROR ('Dress_ID', ['29/8/2013', '31/8/2013', '09-02-2013', '09-04-2013', '09-06-2013', '09-08-2013', '09-10-2013', '09-12-2013', '14/9/2013', '16/9/2013', '18/9/2013', '20/9/2013', '22/9/2013', '24/9/2013', '26/9/2013', '28/9/2013', '30/9/2013', '10-02-2013', '10-04-2013', '10-06-2013', '10-08-2010', '10-10-2013', '10-12-2013'])
+2022-08-04 11:55:56,846 root INFO Table:attributeDataSet created
+2022-08-04 11:55:56,849 root INFO Table:salesDataSet created
+2022-08-04 11:55:56,860 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:55:56,869 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:55:56,879 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:55:56,887 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:55:57,112 root INFO DressSalesData Database created successfully
+2022-08-04 11:55:57,112 root INFO Attrcoll collection created successfully
+2022-08-04 11:55:57,840 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:55:57,987 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:55:57,992 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:55:58,005 root ERROR 'list' object has no attribute 'agg'
+2022-08-04 11:56:40,723 root INFO Table:attributeDataSet created
+2022-08-04 11:56:40,725 root INFO Table:salesDataSet created
+2022-08-04 11:56:40,735 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:56:40,744 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:56:40,759 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:56:40,766 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:56:40,933 root INFO DressSalesData Database created successfully
+2022-08-04 11:56:40,933 root INFO Attrcoll collection created successfully
+2022-08-04 11:56:41,628 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:56:41,786 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:56:41,791 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:56:41,864 root ERROR 'list' object has no attribute 'agg'
+2022-08-04 11:59:13,245 root INFO Table:attributeDataSet created
+2022-08-04 11:59:13,247 root INFO Table:salesDataSet created
+2022-08-04 11:59:13,256 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 11:59:13,264 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 11:59:13,272 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 11:59:13,278 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 11:59:13,436 root INFO DressSalesData Database created successfully
+2022-08-04 11:59:13,436 root INFO Attrcoll collection created successfully
+2022-08-04 11:59:14,192 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 11:59:14,358 root INFO Successfully inserted the sales data into collection
+2022-08-04 11:59:14,363 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 11:59:14,405 root ERROR name 'dress_sl' is not defined
+2022-08-04 12:00:10,548 root INFO Table:attributeDataSet created
+2022-08-04 12:00:10,550 root INFO Table:salesDataSet created
+2022-08-04 12:00:10,560 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 12:00:10,570 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 12:00:10,575 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 12:00:10,580 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 12:00:10,679 root INFO DressSalesData Database created successfully
+2022-08-04 12:00:10,679 root INFO Attrcoll collection created successfully
+2022-08-04 12:00:11,358 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 12:00:11,515 root INFO Successfully inserted the sales data into collection
+2022-08-04 12:00:11,520 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 12:00:11,594 root INFO Dress_ID
+444282011      1732
+510519284      2888
+511503677     12149
+520233308     11041
+522776523      9414
+              ...  
+1246749980     6915
+1246945687     1034
+1249825438     1814
+1250787559       40
+1253973206     2231
+Name: total, Length: 475, dtype: int64
+2022-08-04 12:01:15,277 root INFO Table:attributeDataSet created
+2022-08-04 12:01:15,280 root INFO Table:salesDataSet created
+2022-08-04 12:01:15,291 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 12:01:15,303 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 12:01:15,313 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 12:01:15,323 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 12:01:15,559 root INFO DressSalesData Database created successfully
+2022-08-04 12:01:15,559 root INFO Attrcoll collection created successfully
+2022-08-04 12:01:16,336 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 12:01:16,488 root INFO Successfully inserted the sales data into collection
+2022-08-04 12:01:16,495 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 12:01:16,550 root INFO <pandas.core.groupby.generic.SeriesGroupBy object at 0x0000017551F51240>
+2022-08-04 12:02:22,640 root INFO Table:attributeDataSet created
+2022-08-04 12:02:22,642 root INFO Table:salesDataSet created
+2022-08-04 12:02:22,651 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 12:02:22,660 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 12:02:22,665 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 12:02:22,671 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 12:02:22,846 root INFO DressSalesData Database created successfully
+2022-08-04 12:02:22,846 root INFO Attrcoll collection created successfully
+2022-08-04 12:02:23,631 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 12:02:23,792 root INFO Successfully inserted the sales data into collection
+2022-08-04 12:02:23,798 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 12:03:04,660 root INFO Table:attributeDataSet created
+2022-08-04 12:03:04,662 root INFO Table:salesDataSet created
+2022-08-04 12:03:04,668 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 12:03:04,678 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 12:03:04,683 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 12:03:04,689 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 12:03:04,809 root INFO DressSalesData Database created successfully
+2022-08-04 12:03:04,809 root INFO Attrcoll collection created successfully
+2022-08-04 12:03:05,491 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 12:03:05,646 root INFO Successfully inserted the sales data into collection
+2022-08-04 12:03:05,650 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 12:03:20,689 root INFO Table:attributeDataSet created
+2022-08-04 12:03:20,690 root INFO Table:salesDataSet created
+2022-08-04 12:03:20,698 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 12:03:20,705 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 12:03:20,712 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 12:03:20,718 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 12:03:20,781 root INFO DressSalesData Database created successfully
+2022-08-04 12:03:20,781 root INFO Attrcoll collection created successfully
+2022-08-04 12:03:21,446 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 12:03:21,595 root INFO Successfully inserted the sales data into collection
+2022-08-04 12:03:21,599 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 12:10:49,826 root INFO Table:attributeDataSet created
+2022-08-04 12:10:49,829 root INFO Table:salesDataSet created
+2022-08-04 12:10:49,846 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 12:10:49,857 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 12:10:49,870 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 12:10:49,877 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 12:10:50,111 root INFO DressSalesData Database created successfully
+2022-08-04 12:10:50,111 root INFO Attrcoll collection created successfully
+2022-08-04 12:10:50,890 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 12:10:51,043 root INFO Successfully inserted the sales data into collection
+2022-08-04 12:10:51,051 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 12:12:11,809 root INFO Table:attributeDataSet created
+2022-08-04 12:12:11,812 root INFO Table:salesDataSet created
+2022-08-04 12:12:11,823 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 12:12:11,834 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 12:12:11,839 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 12:12:11,846 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 12:12:12,014 root INFO DressSalesData Database created successfully
+2022-08-04 12:12:12,014 root INFO Attrcoll collection created successfully
+2022-08-04 12:12:12,830 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 12:12:12,985 root INFO Successfully inserted the sales data into collection
+2022-08-04 12:12:12,990 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 12:12:13,029 root ERROR 'dress_Id'
+2022-08-04 13:37:47,577 root INFO Table:attributeDataSet created
+2022-08-04 13:37:47,579 root INFO Table:salesDataSet created
+2022-08-04 13:37:47,615 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 13:37:47,631 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 13:37:47,646 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 13:37:47,652 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 13:37:47,865 root INFO DressSalesData Database created successfully
+2022-08-04 13:37:47,865 root INFO Attrcoll collection created successfully
+2022-08-04 13:37:48,685 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 13:37:48,834 root INFO Successfully inserted the sales data into collection
+2022-08-04 13:37:48,853 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 13:38:25,181 root INFO Table:attributeDataSet created
+2022-08-04 13:38:25,183 root INFO Table:salesDataSet created
+2022-08-04 13:38:25,197 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 13:38:25,213 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 13:38:25,221 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 13:38:25,228 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 13:38:25,365 root INFO DressSalesData Database created successfully
+2022-08-04 13:38:25,365 root INFO Attrcoll collection created successfully
+2022-08-04 13:38:26,041 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 13:38:26,159 root INFO Successfully inserted the sales data into collection
+2022-08-04 13:38:26,166 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 13:38:26,287 root ERROR ('Dress_ID', 'total')
+2022-08-04 13:43:10,066 root INFO Table:attributeDataSet created
+2022-08-04 13:43:10,068 root INFO Table:salesDataSet created
+2022-08-04 13:43:10,079 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 13:43:10,090 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 13:43:10,102 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 13:43:10,109 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 13:43:10,255 root INFO DressSalesData Database created successfully
+2022-08-04 13:43:10,256 root INFO Attrcoll collection created successfully
+2022-08-04 13:43:11,048 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 13:43:11,165 root INFO Successfully inserted the sales data into collection
+2022-08-04 13:43:11,172 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 13:43:58,203 root INFO Table:attributeDataSet created
+2022-08-04 13:43:58,206 root INFO Table:salesDataSet created
+2022-08-04 13:43:58,217 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 13:43:58,225 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 13:43:58,231 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 13:43:58,236 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 13:43:58,389 root INFO DressSalesData Database created successfully
+2022-08-04 13:43:58,390 root INFO Attrcoll collection created successfully
+2022-08-04 13:43:59,088 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 13:43:59,210 root INFO Successfully inserted the sales data into collection
+2022-08-04 13:43:59,216 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 13:43:59,282 root ERROR name 'total' is not defined
+2022-08-04 13:44:19,025 root INFO Table:attributeDataSet created
+2022-08-04 13:44:19,026 root INFO Table:salesDataSet created
+2022-08-04 13:44:19,034 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 13:44:19,045 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 13:44:19,050 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 13:44:19,058 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 13:44:19,232 root INFO DressSalesData Database created successfully
+2022-08-04 13:44:19,232 root INFO Attrcoll collection created successfully
+2022-08-04 13:44:20,057 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 13:44:20,192 root INFO Successfully inserted the sales data into collection
+2022-08-04 13:44:20,199 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 13:44:20,318 root ERROR 'Column not found: total'
+2022-08-04 13:44:55,651 root INFO Table:attributeDataSet created
+2022-08-04 13:44:55,652 root INFO Table:salesDataSet created
+2022-08-04 13:44:55,661 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 13:44:55,670 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 13:44:55,677 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 13:44:55,684 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 13:44:55,796 root INFO DressSalesData Database created successfully
+2022-08-04 13:44:55,796 root INFO Attrcoll collection created successfully
+2022-08-04 13:44:56,629 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 13:44:56,788 root INFO Successfully inserted the sales data into collection
+2022-08-04 13:44:56,792 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 13:46:02,028 root INFO Table:attributeDataSet created
+2022-08-04 13:46:02,030 root INFO Table:salesDataSet created
+2022-08-04 13:46:02,038 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 13:46:02,049 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 13:46:02,056 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 13:46:02,063 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 13:46:02,248 root INFO DressSalesData Database created successfully
+2022-08-04 13:46:02,248 root INFO Attrcoll collection created successfully
+2022-08-04 13:46:03,085 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 13:46:03,204 root INFO Successfully inserted the sales data into collection
+2022-08-04 13:46:03,211 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:16:45,257 root INFO Table:attributeDataSet created
+2022-08-04 14:16:45,259 root INFO Table:salesDataSet created
+2022-08-04 14:16:45,282 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:16:45,295 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:16:45,302 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:16:45,309 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:16:45,514 root INFO DressSalesData Database created successfully
+2022-08-04 14:16:45,514 root INFO Attrcoll collection created successfully
+2022-08-04 14:16:46,319 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:16:46,482 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:16:46,489 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:16:46,514 root ERROR sum() takes at least 1 positional argument (0 given)
+2022-08-04 14:17:29,271 root INFO Table:attributeDataSet created
+2022-08-04 14:17:29,273 root INFO Table:salesDataSet created
+2022-08-04 14:17:29,282 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:17:29,291 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:17:29,299 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:17:29,306 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:17:29,589 root INFO DressSalesData Database created successfully
+2022-08-04 14:17:29,589 root INFO Attrcoll collection created successfully
+2022-08-04 14:17:30,257 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:17:30,409 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:17:30,416 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:17:30,466 root ERROR Operation sum does not support axis=1
+2022-08-04 14:26:53,287 root INFO Table:attributeDataSet created
+2022-08-04 14:26:53,289 root INFO Table:salesDataSet created
+2022-08-04 14:26:53,308 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:26:53,320 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:26:53,326 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:26:53,331 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:26:53,545 root INFO DressSalesData Database created successfully
+2022-08-04 14:26:53,545 root INFO Attrcoll collection created successfully
+2022-08-04 14:26:54,370 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:26:54,525 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:26:54,532 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:33:26,697 root INFO Table:attributeDataSet created
+2022-08-04 14:33:26,699 root INFO Table:salesDataSet created
+2022-08-04 14:33:26,711 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:33:26,722 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:33:26,729 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:33:26,737 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:33:26,924 root INFO DressSalesData Database created successfully
+2022-08-04 14:33:26,924 root INFO Attrcoll collection created successfully
+2022-08-04 14:33:27,705 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:33:27,872 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:33:27,879 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:33:49,588 root INFO Table:attributeDataSet created
+2022-08-04 14:33:49,590 root INFO Table:salesDataSet created
+2022-08-04 14:33:49,597 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:33:49,607 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:33:49,611 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:33:49,616 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:33:49,681 root INFO DressSalesData Database created successfully
+2022-08-04 14:33:49,681 root INFO Attrcoll collection created successfully
+2022-08-04 14:33:50,420 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:33:50,539 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:33:50,546 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:34:17,089 root INFO Table:attributeDataSet created
+2022-08-04 14:34:17,091 root INFO Table:salesDataSet created
+2022-08-04 14:34:17,101 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:34:17,114 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:34:17,119 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:34:17,129 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:34:17,199 root INFO DressSalesData Database created successfully
+2022-08-04 14:34:17,199 root INFO Attrcoll collection created successfully
+2022-08-04 14:34:17,932 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:34:18,066 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:34:18,074 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:34:18,201 root ERROR GroupBy.sum() got an unexpected keyword argument 'axis'
+2022-08-04 14:34:41,759 root INFO Table:attributeDataSet created
+2022-08-04 14:34:41,762 root INFO Table:salesDataSet created
+2022-08-04 14:34:41,769 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:34:41,778 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:34:41,781 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:34:41,808 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:34:42,013 root INFO DressSalesData Database created successfully
+2022-08-04 14:34:42,013 root INFO Attrcoll collection created successfully
+2022-08-04 14:34:42,822 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:34:42,939 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:34:42,943 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:52:47,280 root INFO Table:attributeDataSet created
+2022-08-04 14:52:47,284 root INFO Table:salesDataSet created
+2022-08-04 14:52:47,310 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:52:47,325 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:52:47,335 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:52:47,341 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:52:47,552 root INFO DressSalesData Database created successfully
+2022-08-04 14:52:47,552 root INFO Attrcoll collection created successfully
+2022-08-04 14:52:48,333 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:52:48,453 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:52:48,469 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:52:48,514 root ERROR name 'false' is not defined
+2022-08-04 14:53:15,101 root INFO Table:attributeDataSet created
+2022-08-04 14:53:15,103 root INFO Table:salesDataSet created
+2022-08-04 14:53:15,112 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:53:15,121 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:53:15,129 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:53:15,134 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:53:15,209 root INFO DressSalesData Database created successfully
+2022-08-04 14:53:15,209 root INFO Attrcoll collection created successfully
+2022-08-04 14:53:15,900 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:53:16,113 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:53:16,118 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:53:16,201 root ERROR name 'false' is not defined
+2022-08-04 14:53:53,509 root INFO Table:attributeDataSet created
+2022-08-04 14:53:53,512 root INFO Table:salesDataSet created
+2022-08-04 14:53:53,526 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:53:53,541 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:53:53,548 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:53:53,556 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:53:53,768 root INFO DressSalesData Database created successfully
+2022-08-04 14:53:53,768 root INFO Attrcoll collection created successfully
+2022-08-04 14:53:54,558 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:53:54,729 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:53:54,734 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 14:53:54,747 root ERROR Series.sort_values() got an unexpected keyword argument 'by'
+2022-08-04 14:57:33,253 root INFO Table:attributeDataSet created
+2022-08-04 14:57:33,255 root INFO Table:salesDataSet created
+2022-08-04 14:57:33,267 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 14:57:33,276 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 14:57:33,283 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 14:57:33,288 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 14:57:33,524 root INFO DressSalesData Database created successfully
+2022-08-04 14:57:33,524 root INFO Attrcoll collection created successfully
+2022-08-04 14:57:34,336 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 14:57:34,484 root INFO Successfully inserted the sales data into collection
+2022-08-04 14:57:34,492 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 15:08:25,571 root INFO Table:attributeDataSet created
+2022-08-04 15:08:25,573 root INFO Table:salesDataSet created
+2022-08-04 15:08:25,588 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-04 15:08:25,599 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-04 15:08:25,612 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-04 15:08:25,620 root INFO Data is assigned to DF from table salesDataSet
+2022-08-04 15:08:25,857 root INFO DressSalesData Database created successfully
+2022-08-04 15:08:25,857 root INFO Attrcoll collection created successfully
+2022-08-04 15:08:26,621 root INFO Successfully inserted the Attribute Data into collection
+2022-08-04 15:08:26,774 root INFO Successfully inserted the sales data into collection
+2022-08-04 15:08:26,780 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-04 15:08:26,824 root ERROR No axis named Dress_ID for object type Series
+2022-08-05 00:36:16,553 root INFO Table:attributeDataSet created
+2022-08-05 00:36:16,558 root INFO Table:salesDataSet created
+2022-08-05 00:36:16,597 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 00:36:16,611 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 00:36:16,627 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 00:36:16,633 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 00:36:16,843 root INFO DressSalesData Database created successfully
+2022-08-05 00:36:16,843 root INFO Attrcoll collection created successfully
+2022-08-05 00:36:17,683 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 00:36:17,835 root INFO Successfully inserted the sales data into collection
+2022-08-05 00:36:17,853 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 00:36:17,947 root ERROR keep must be either "first", "last" or "all"
+2022-08-05 00:36:30,619 root INFO Table:attributeDataSet created
+2022-08-05 00:36:30,622 root INFO Table:salesDataSet created
+2022-08-05 00:36:30,653 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 00:36:30,682 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 00:36:30,711 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 00:36:30,721 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 00:36:32,039 root INFO DressSalesData Database created successfully
+2022-08-05 00:36:32,039 root INFO Attrcoll collection created successfully
+2022-08-05 00:36:32,755 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 00:36:32,910 root INFO Successfully inserted the sales data into collection
+2022-08-05 00:36:32,917 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 00:36:32,956 root ERROR keep must be either "first", "last" or "all"
+2022-08-05 00:38:21,223 root INFO Table:attributeDataSet created
+2022-08-05 00:38:21,225 root INFO Table:salesDataSet created
+2022-08-05 00:38:21,301 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 00:38:21,352 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 00:38:21,395 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 00:38:21,402 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 00:38:21,618 root INFO DressSalesData Database created successfully
+2022-08-05 00:38:21,619 root INFO Attrcoll collection created successfully
+2022-08-05 00:38:22,572 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 00:38:22,743 root INFO Successfully inserted the sales data into collection
+2022-08-05 00:38:23,234 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 00:38:23,560 root ERROR keep must be either "first", "last" or "all"
+2022-08-05 00:44:44,148 root INFO Table:attributeDataSet created
+2022-08-05 00:44:44,151 root INFO Table:salesDataSet created
+2022-08-05 00:44:44,168 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 00:44:44,180 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 00:44:44,194 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 00:44:44,202 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 00:44:44,436 root INFO DressSalesData Database created successfully
+2022-08-05 00:44:44,436 root INFO Attrcoll collection created successfully
+2022-08-05 00:44:45,248 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 00:44:45,417 root INFO Successfully inserted the sales data into collection
+2022-08-05 00:44:45,426 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 00:44:45,531 root ERROR 'HIGH'
+2022-08-05 00:45:24,205 root INFO Table:attributeDataSet created
+2022-08-05 00:45:24,209 root INFO Table:salesDataSet created
+2022-08-05 00:45:24,224 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 00:45:24,241 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 00:45:24,250 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 00:45:24,259 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 00:45:24,353 root INFO DressSalesData Database created successfully
+2022-08-05 00:45:24,353 root INFO Attrcoll collection created successfully
+2022-08-05 00:45:25,072 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 00:45:25,226 root INFO Successfully inserted the sales data into collection
+2022-08-05 00:45:25,233 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 00:45:25,258 root ERROR 'total'
+2022-08-05 07:51:33,866 root INFO Table:attributeDataSet created
+2022-08-05 07:51:33,869 root INFO Table:salesDataSet created
+2022-08-05 07:51:33,896 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 07:51:33,909 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 07:51:33,925 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 07:51:33,933 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 07:51:34,125 root INFO DressSalesData Database created successfully
+2022-08-05 07:51:34,125 root INFO Attrcoll collection created successfully
+2022-08-05 07:51:34,923 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 07:51:35,080 root INFO Successfully inserted the sales data into collection
+2022-08-05 07:51:35,101 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 07:51:35,206 root ERROR name 'Mysql' is not defined
+2022-08-05 08:33:26,235 root ERROR name 'create_engine' is not defined
+2022-08-05 08:33:49,280 root INFO Table:attributeDataSet created
+2022-08-05 08:33:49,285 root INFO Table:salesDataSet created
+2022-08-05 08:33:49,338 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:33:49,362 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:33:49,379 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:33:49,386 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:33:49,569 root INFO DressSalesData Database created successfully
+2022-08-05 08:33:49,569 root INFO Attrcoll collection created successfully
+2022-08-05 08:33:50,503 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:33:50,639 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:33:50,674 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:33:50,732 root ERROR name 'df_salesDS1' is not defined
+2022-08-05 08:34:13,663 root INFO Table:attributeDataSet created
+2022-08-05 08:34:13,666 root INFO Table:salesDataSet created
+2022-08-05 08:34:13,678 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:34:13,691 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:34:13,698 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:34:13,709 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:34:13,783 root INFO DressSalesData Database created successfully
+2022-08-05 08:34:13,783 root INFO Attrcoll collection created successfully
+2022-08-05 08:34:14,590 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:34:14,719 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:34:14,727 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:34:14,761 root ERROR name 'df_salesDS1' is not defined
+2022-08-05 08:36:06,442 root INFO Table:attributeDataSet created
+2022-08-05 08:36:06,443 root INFO Table:salesDataSet created
+2022-08-05 08:36:06,453 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:36:06,462 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:36:06,469 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:36:06,476 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:36:06,686 root INFO DressSalesData Database created successfully
+2022-08-05 08:36:06,686 root INFO Attrcoll collection created successfully
+2022-08-05 08:36:07,663 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:36:07,803 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:36:07,819 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:36:07,874 root ERROR name 'df_salesDS1' is not defined
+2022-08-05 08:36:27,287 root INFO Table:attributeDataSet created
+2022-08-05 08:36:27,290 root INFO Table:salesDataSet created
+2022-08-05 08:36:27,300 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:36:27,308 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:36:27,314 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:36:27,320 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:36:27,386 root INFO DressSalesData Database created successfully
+2022-08-05 08:36:27,386 root INFO Attrcoll collection created successfully
+2022-08-05 08:36:28,209 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:36:28,332 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:36:28,339 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:37:04,872 root INFO Table:attributeDataSet created
+2022-08-05 08:37:04,874 root INFO Table:salesDataSet created
+2022-08-05 08:37:04,885 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:37:04,895 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:37:04,900 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:37:04,905 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:37:04,969 root INFO DressSalesData Database created successfully
+2022-08-05 08:37:04,969 root INFO Attrcoll collection created successfully
+2022-08-05 08:37:05,812 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:37:05,960 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:37:05,970 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:37:06,005 root ERROR name 'df_salesDS1' is not defined
+2022-08-05 08:37:40,357 root INFO Table:attributeDataSet created
+2022-08-05 08:37:40,360 root INFO Table:salesDataSet created
+2022-08-05 08:37:40,368 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:37:40,376 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:37:40,381 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:37:40,387 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:37:40,568 root INFO DressSalesData Database created successfully
+2022-08-05 08:37:40,569 root INFO Attrcoll collection created successfully
+2022-08-05 08:37:41,511 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:37:41,656 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:37:41,664 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:37:41,678 root ERROR name 'df_salesDS1' is not defined
+2022-08-05 08:37:56,162 root INFO Table:attributeDataSet created
+2022-08-05 08:37:56,164 root INFO Table:salesDataSet created
+2022-08-05 08:37:56,171 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:37:56,180 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:37:56,184 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:37:56,190 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:37:56,257 root INFO DressSalesData Database created successfully
+2022-08-05 08:37:56,257 root INFO Attrcoll collection created successfully
+2022-08-05 08:37:57,135 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:37:57,263 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:37:57,266 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:38:09,817 root INFO Table:attributeDataSet created
+2022-08-05 08:38:09,820 root INFO Table:salesDataSet created
+2022-08-05 08:38:09,830 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:38:09,837 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:38:09,841 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:38:09,847 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:38:09,910 root INFO DressSalesData Database created successfully
+2022-08-05 08:38:09,910 root INFO Attrcoll collection created successfully
+2022-08-05 08:38:10,801 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:38:10,980 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:38:10,984 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:39:50,953 root INFO Table:attributeDataSet created
+2022-08-05 08:39:50,955 root INFO Table:salesDataSet created
+2022-08-05 08:39:50,963 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:39:50,972 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:39:50,977 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:39:50,984 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:39:51,167 root INFO DressSalesData Database created successfully
+2022-08-05 08:39:51,168 root INFO Attrcoll collection created successfully
+2022-08-05 08:39:52,149 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:39:52,280 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:39:52,287 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:46:35,764 root INFO Table:attributeDataSet created
+2022-08-05 08:46:35,767 root INFO Table:salesDataSet created
+2022-08-05 08:46:35,779 root INFO Data is successfully loaded from local storage to table:attributeDataSet
+2022-08-05 08:46:35,786 root INFO Data is successfully loaded from local storage to table:salesDataSet
+2022-08-05 08:46:35,794 root INFO Data is assigned to DF from table attributeDataSet
+2022-08-05 08:46:35,800 root INFO Data is assigned to DF from table salesDataSet
+2022-08-05 08:46:36,042 root INFO DressSalesData Database created successfully
+2022-08-05 08:46:36,042 root INFO Attrcoll collection created successfully
+2022-08-05 08:46:36,969 root INFO Successfully inserted the Attribute Data into collection
+2022-08-05 08:46:37,110 root INFO Successfully inserted the sales data into collection
+2022-08-05 08:46:37,118 root INFO attributedataset is left joined with salesdataset successfully
+2022-08-05 08:46:37,152 root INFO Total Dress Salaes for each dress Id given
